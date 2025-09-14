@@ -12,7 +12,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Kishoresweety&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+!["Society runs like corrupted software—patched by lies, updated by greed, and crashed by truth"](https://github-readme-quotes-bay.vercel.app/quote?theme=vision-friendly-dark&animation=grow_out_in&layout=default&font=default&quoteType=random&bgSource=unsplash&unsplashQuery=%22Society+runs+like+corrupted+software%E2%80%94patched+by+lies%2C+updated+by+greed%2C+and+crashed+by+truth%22)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kishoresweety&limit=5&theme=dark&combine_all_yearly_contributions=true)
