@@ -31,29 +31,29 @@ Educational simulation of Pegasus-style spyware to understand mobile security th
 
 **Languages**
 
-Python  
-Rust  
-JavaScript  
-C  
+* Python  
+* Rust  
+* JavaScript  
+* C  
 
 **AI / Data**
 
-Machine Learning  
-LLMs  
-AI Agents  
-RAG Systems  
+* Machine Learning  
+* LLMs  
+* AI Agents  
+* RAG Systems  
 
 **Quantum Computing**
 
-Qiskit  
-Quantum Algorithms  
+* Qiskit  
+* Quantum Algorithms  
 
 **Web & Tools**
 
-React  
-Flask  
-Next.js  
-Streamlit  
+* React  
+* Flask  
+* Next.js  
+* Streamlit  
 
 ---
 
@@ -75,19 +75,19 @@ To build **future technologies that combine AI, Quantum Computing, and Security*
 
 ## 📊 GitHub Stats
 
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishoresweety&show_icons=true)
 
 ---
 
 ## 🔥 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishoresweety&layout=compact)
 
 ---
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/kishore2000  
+LinkedIn: ![Click](https://www.linkedin.com/in/kishore2000)  
 Donate:  https://razorpay.me/@kishorely
 Buy me a coffee: https://buymeacoffee.com/kishore.ly
 Research GitHub: https://github.com/kishore-researcher
